@@ -6,6 +6,7 @@
 #### Front
 - Android studio
 #### Back-end
+- Python
 - Django
 
 ## 서비스소개
